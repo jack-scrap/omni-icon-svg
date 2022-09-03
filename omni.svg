@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+	<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52">
+	<g transform="translate(26,26)">
+		<path d="M -16,-26 26,-26 26,16 16,26 -26,26 -26,-16 Z" fill="rgb(255, 142, 65)" />
+		<path d="M -6,-10 10,-10 10,6 6,10 -10,10 -10,-6 Z" fill="rgb(255, 255, 255)" />
+	</g>
+</svg>
